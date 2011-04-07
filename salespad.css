@@ -1,0 +1,126 @@
+body {
+	font: normal 11px auto "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	color: #4f6b72;
+	background: #ffffff;
+	padding:0px;
+	margin:0px;
+}
+
+a {
+	text-decoration: none;
+	color: #c75f3e;
+}
+
+#dealtable th.label {
+	width:100px;
+}
+
+#dealtable th.equal {
+	width:250px;
+}
+
+#dealtable th.narrow {
+	width:100px;
+}
+
+#dealtable th.wide {
+	width:400px;
+}
+	
+#mytable {
+	width: 768px;
+	padding: 0;
+	margin: 0;
+}
+
+#myperformance {
+	width:400px;
+	padding: 0;
+	margin: 0;
+}
+
+#dealtable {
+	width:600px;
+	margin:0px;
+	padding:0px;
+}
+	
+caption {
+	padding: 0 0 5px 0;
+	width: 700px;	 
+	font: italic 11px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	text-align: right;
+}
+
+th {
+	font: bold 11px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	color: #4f6b72;
+	border-right: 1px solid #C1DAD7;
+	border-bottom: 1px solid #C1DAD7;
+	border-top: 1px solid #C1DAD7;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-align: left;
+	padding: 6px 6px 6px 10px;
+	background: #CAE8EA url(bg_header.jpg) no-repeat;
+}
+
+th.nobg {
+	border-top: 0;
+	border-left: 0;
+	border-right: 1px solid #C1DAD7;
+	background: none;
+}
+
+td {
+	border-right: 1px solid #C1DAD7;
+	border-bottom: 1px solid #C1DAD7;
+	background: #fff;
+	padding: 5px 5px 5px 10px;
+	color: #4f6b72;
+	text-align: right;
+}
+
+
+td.alt {
+	background: #F5FAFA;
+	color: #797268;
+}
+
+th.spec {
+	border-left: 1px solid #C1DAD7;
+	border-top: 0;
+	background: #fff url(bullet1.gif) no-repeat;
+	font: bold 10px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+}
+
+th.specalt {
+	border-left: 1px solid #C1DAD7;
+	border-top: 0;
+	background: #f5fafa url(bullet2.gif) no-repeat;
+	font: bold 10px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	color: #797268;
+}
+
+td.lower {
+	background: #fff url(down.png) no-repeat right center;
+	background-size: 12px 9px;
+}
+	
+td.higher {
+	background: #fff url(up.png) no-repeat right center;
+	background-size: 12px 9px;
+}
+
+td.higher, td.lower, td.nihistory, td.same {
+	padding-right: 16px;
+}
+
+tr.highlight td {
+	background-color: #ffeeee;
+}
+
+#dealtable td {
+	text-align: left;
+}
+ 

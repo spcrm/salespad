@@ -1,0 +1,9 @@
+TSalesPad
+v7
+r1
+cCheck dependencies
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322639520#322639520#0(176"error: Composite SDK failed: The base SDK uses platform 'iphoneos', but an additional SDK uses platform 'iphonesimulator'. All SDKs must use the same platform (PLATFORM_NAME).1(4@176"error: Composite SDK failed: The base SDK uses platform 'iphoneos', but an additional SDK uses platform 'iphonesimulator'. All SDKs must use the same platform (PLATFORM_NAME).322639520#18446744073709551615#0#0(1@0"0(0#1#0"3343187568374212096#0"0#
+

@@ -1,0 +1,2 @@
+CREATE TABLE forecasts_tmp (uid text, mid text, month int, quarter text, year int, forecast double,  quota double,  closed double,  pipeline double, prioryear double, updated date, name text, monthname text, rid text, snapshot int);
+CREATE TABLE deals_tmp (id text, name text, amount double, probability double, stage text, closedate date, type text, iswon integer, isclosed integer, forecastcategory text, ownerid text, ownername text, nextsteps text, manager text, notes text, roleid text, updated date, senotes text, description, snapshot int);

@@ -1,0 +1,10 @@
+/Users/spanigrahi/Documents/My Documents/Scripts/SalesPad/Classes/SalesPadController.m: In function '-[SalesPadController viewForecastFor:startMonth:endMonth:viewBy:]':
+/Users/spanigrahi/Documents/My Documents/Scripts/SalesPad/Classes/SalesPadController.m:171: warning: local declaration of 'viewBy' hides instance variable
+/Users/spanigrahi/Documents/My Documents/Scripts/SalesPad/Classes/SalesPadController.m: In function '-[SalesPadController goOnline]':
+/Users/spanigrahi/Documents/My Documents/Scripts/SalesPad/Classes/SalesPadController.m:464: warning: unused variable 'netStatus'
+/Users/spanigrahi/Documents/My Documents/Scripts/SalesPad/Classes/SalesPadController.m: In function '-[SalesPadController loginSuccess:user:]':
+/Users/spanigrahi/Documents/My Documents/Scripts/SalesPad/Classes/SalesPadController.m:578: warning: local declaration of 'loginController' hides instance variable
+/Users/spanigrahi/Documents/My Documents/Scripts/SalesPad/Classes/SalesPadController.m: In function '-[SalesPadController loginCancel:]':
+/Users/spanigrahi/Documents/My Documents/Scripts/SalesPad/Classes/SalesPadController.m:610: warning: local declaration of 'loginController' hides instance variable
+/Users/spanigrahi/Documents/My Documents/Scripts/SalesPad/Classes/SalesPadController.m: In function '-[SalesPadController syncFiscalPeriodCallback:error:context:]':
+/Users/spanigrahi/Documents/My Documents/Scripts/SalesPad/Classes/SalesPadController.m:1306: warning: unused variable 'label'
